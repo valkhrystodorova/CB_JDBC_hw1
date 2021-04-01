@@ -1,0 +1,2 @@
+INSERT into table1 (name, phone) values ('Alla', '22222222')
+INSERT into table1 (name, phone) values ('Ola', '2222222')
